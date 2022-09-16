@@ -42,4 +42,7 @@ Se não for bom:
       * Atributos -> Qualidades, propriedades das entidades.
       * Relacionamentos -> Como as entidades se relacionam.
       
- ## Diagrama
+ ## Diagrama entidades e relacionamentos MER/DER
+ 
+ ![image](https://user-images.githubusercontent.com/19749044/190533771-e623d078-fd81-4ed9-b466-4b6cfaef5122.png)
+
