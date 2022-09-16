@@ -32,9 +32,14 @@ Se não for bom:
     * Modelo Hierárquico
     * Modelo Rede
     * NOSQL
-    
+
  4. Projeto Conceitual
     * Visão de Alto Nível
     * Não serve para implementação
     * Não é específico para nenhum SGBD.
     * **Serve para entedermos como a empresa e o sistema funcionam. Vai mostrar as entidades, os atributos e os relacionamentos entre as entidades** 
+      * Entidades -> Qualquer coisa que eu quero guardar dados.
+      * Atributos -> Qualidades, propriedades das entidades.
+      * Relacionamentos -> Como as entidades se relacionam.
+      
+ ## Diagrama
