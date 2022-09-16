@@ -20,29 +20,42 @@ Se não for bom:
 ## Etapas para um projeto de banco de dados.
 
 ### Engenharia de software
- 1. Análise de requisitos 
-    * O que os usúarios querem
+ ### 1. Análise de requisitos 
+   * O que os usúarios querem
  
- 2. Escolha de um Modelo de dados
-    * Existem + 20
-    * Modelo Relacional
-    * Modelo Objeto Relacional
-    * Modelo Objeto
-    * Modelo Grafos
-    * Modelo Hierárquico
-    * Modelo Rede
-    * NOSQL
+ ### 2. Escolha de um Modelo de dados
+   * Existem + 20
+   * Modelo Relacional
+   * Modelo Objeto Relacional
+   * Modelo Objeto
+   * Modelo Grafos
+   * Modelo Hierárquico
+   * Modelo Rede
+   * NOSQL
 
- 4. Projeto Conceitual
-    * Visão de Alto Nível
-    * Não serve para implementação
-    * Não é específico para nenhum SGBD.
-    * **Serve para entedermos como a empresa e o sistema funcionam. Vai mostrar as entidades, os atributos e os relacionamentos entre as entidades** 
-      * Entidades -> Qualquer coisa que eu quero guardar dados.
-      * Atributos -> Qualidades, propriedades das entidades.
-      * Relacionamentos -> Como as entidades se relacionam.
+ ### 4. Projeto Conceitual
+   * Visão de Alto Nível
+   * Não serve para implementação
+   * Não é específico para nenhum SGBD.
+   * **Serve para entedermos como a empresa e o sistema funcionam. Vai mostrar as entidades, os atributos e os relacionamentos entre as entidades** 
+     * Entidades -> Qualquer coisa que eu quero guardar dados.
+     * Atributos -> Qualidades, propriedades das entidades.
+     * Relacionamentos -> Como as entidades se relacionam.
       
  ## Diagrama entidades e relacionamentos MER/DER
- 
- ![image](https://user-images.githubusercontent.com/19749044/190533771-e623d078-fd81-4ed9-b466-4b6cfaef5122.png)
+
+ ![image](https://user-images.githubusercontent.com/19749044/190534248-a0f829bf-b797-47c3-a008-4c27fcf9b9c0.png)
+
+  ### 5. Projeto Lógico
+   - Visão de nível mais baixo
+   - Implementação em um SGBD
+   - Tipos de dados
+   - PK, FK, PFK, UK, ...
+   - Específico para um SGBD
+   - SQL Power Architect
+
+  ### 6. Projeto Físico 
+   - Visão de baixo nível
+   - 
+
 
